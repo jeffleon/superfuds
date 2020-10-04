@@ -2,17 +2,7 @@
 this app its a little deploy with a shooping cart web app that consist in a carousel with cards and you can choose the products inside this cards and bougth them.
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://super-funds.web.app/)
 
-![alt text](/src/images/AddFavorites.gif)
-
-* you can filter for name in characters View and stories View
-
-![alt text](/src/images/filtercomic.gif)
-
-* you can filter by issue and format in comic view and also name 
-
-![alt text](/src/images/filterbyname.gif)
-
-
+![alt text](/src/images/super-fuds.gif)
 
 
 ### Deploy
