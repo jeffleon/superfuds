@@ -1,3 +1,45 @@
+## Super Fuds APP 
+this app its a little deploy with a shooping cart web app that consist in a carousel with cards and you can choose the products inside this cards and bougth them.
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://super-funds.web.app/)
+
+![alt text](/src/images/AddFavorites.gif)
+
+* you can filter for name in characters View and stories View
+
+![alt text](/src/images/filtercomic.gif)
+
+* you can filter by issue and format in comic view and also name 
+
+![alt text](/src/images/filterbyname.gif)
+
+
+
+
+### Deploy
+This app its deploy in Firebase in the URL:https://super-funds.web.app/
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://super-funds.web.app/)
+
+
+## Dependencies 
+
+You have to install the dependencies below 
+    
+    * npm install
+
+if you have some problems with the previous command this app has the follow dependencies
+
+    * yarn add bootstrap
+    * yarn add reactstrap
+    * yarn add @material-ui/core
+    * yarn add react-popper
+    * yarn add react-router-dom
+    * yarn add font-awesome
+    * yarn add redux
+    * yarn add react-redux
+    * yarn add react-responsive-carousel
+    * yarn add react-elastic-carousel
+    * yarn add styled-components
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
