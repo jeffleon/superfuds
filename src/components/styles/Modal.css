@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+.btnmodal{
+    margin-top: 10px;
+    background-color: #22aa6a;
+}
+.countmodal{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.headermodal{
+    font-size: 50px;
+}
+.title-elemnt{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.element-especif{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: grey;
+}
+
+.element-sup{
+    font-family: 'Open Sans', sans-serif;
+    color: #22aa6a;
+    font-size: 12px;
+}

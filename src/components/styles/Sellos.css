@@ -1,0 +1,18 @@
+.sellos{
+    display: block;
+    margin-top: 10px;
+    opacity: .7;
+    z-index: 2;
+}
+
+
+.selloswraper{
+    position: absolute;
+    right: 0;
+    padding: 5px;
+}
+
+.title-tooltip{
+    color: yellow;
+}
+

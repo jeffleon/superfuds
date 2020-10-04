@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+.cardimages{
+    margin-top: 30px;
+    width: 150px;
+    height: 200px;
+    z-index: 1;
+}
+.badge{
+    margin-bottom: 5px;
+    background-color: #22aa6a;
+    color:white;
+}
+.container{
+    position: relative;
+}
+.cardsubtitle{
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    color: #22aa6a;
+    font-size: 12px;
+}
+.cardprice{
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
+.pesos{
+  text-align: left;
+  color: #22aa6a;
+  margin-right: 2px;
+  font-size: 25px;
+  font-family: 'Roboto Slab', serif;
+}
+.cardtext{
+    text-align: left;
+    overflow: hidden;
+    position:relative;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-family: 'Roboto Slab', serif;
+}
+.imgwraper{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
